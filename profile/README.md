@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://www.luzfaltex.com#gh-dark-mode-only"><img src="https://github.com/LuzFaltex/.github/raw/main/img/Logo%20Dark.png" alt="Zitadel Header" width="auto" height="200" /></a>
   <a href="https://www.luzfaltex.com#gh-light-mode-only"><img src="https://github.com/LuzFaltex/.github/raw/main/img/Logo%20Light.png" alt="Zitadel Header" width="auto" height="200" /></a>
+  &reg;
 </p>
 
 We are an indie technology company founded in 2014 dedicated to bringing you the best roleplay experience without compromizing your privacy. Specializing in game development and community management, we aim to provide open source tools and training for community managers to enable them to create their own thriving roleplay communities.
